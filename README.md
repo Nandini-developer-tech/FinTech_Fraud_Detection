@@ -52,10 +52,6 @@ FinTech_Fraud_Detection/
 ├── transfer_money.py
 ├── view_transactions.py
 ├── fraud_alerts.py
-│
-├── sql/
-│   └── fintech_db.sql
-│
 └── README.md
 ```
 
