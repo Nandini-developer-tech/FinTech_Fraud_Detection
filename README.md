@@ -1,4 +1,3 @@
-You can create a file named **README.md** in your project folder and paste the following content:
 
 # FinTech Fraud Detection & Transaction Ledger
 
@@ -139,6 +138,4 @@ Through this project, I learned:
 
 Nandini
 
-Python Backend Developer
-
-This README is suitable for uploading the project to GitHub and showcasing it as a beginner-to-intermediate Python + MySQL backend project.
+Python Backend Developer.
