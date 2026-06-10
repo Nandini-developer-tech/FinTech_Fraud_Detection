@@ -7,7 +7,7 @@ This project is a simple FinTech application built using **Python** and **MySQL*
 
 ## Features
 
-* Add new customers       
+* Add new customers           
 * Create customer accounts   
 * Transfer money between accounts
 * Store transaction history in a ledger   
