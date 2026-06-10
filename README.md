@@ -10,7 +10,7 @@ This project is a simple FinTech application built using **Python** and **MySQL*
 * Add new customers       
 * Create customer accounts   
 * Transfer money between accounts
-* Store transaction history in a ledger
+* Store transaction history in a ledger   
 * Detect high-value transactions as potential fraud
 * Record fraud alerts in a separate table      
 * View transaction records
