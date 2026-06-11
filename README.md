@@ -42,7 +42,7 @@ Stores suspicious transaction alerts.
 
 ## Project Structure
 
-```text
+```text  
 FinTech_Fraud_Detection/
 │
 ├── database.py
