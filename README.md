@@ -116,7 +116,7 @@ Through this project, I learned:
 
 * Database design using MySQL
 * Python-MySQL integration
-* CRUD operations
+* CRUD operations     
 * Transaction management
 * Basic fraud detection logic
 * Project organization and modular coding
