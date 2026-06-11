@@ -90,7 +90,7 @@ conn = mysql.connector.connect(
 ### 5. Run the Application
 
 ```bash
-python main.py
+python main.py     
 ```
 
 ## Fraud Detection Rule
