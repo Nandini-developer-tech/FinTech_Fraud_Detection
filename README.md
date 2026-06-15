@@ -27,7 +27,7 @@ This project is a simple FinTech application built using **Python** and **MySQL*
 ### Customers
 
 Stores customer information.
-
+         
 ### Accounts
 
 Stores account details and balances.
