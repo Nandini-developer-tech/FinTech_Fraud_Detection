@@ -38,7 +38,7 @@ Stores all money transfer records.
 
 ### Fraud Alerts
 
-Stores suspicious transaction alerts.
+Stores suspicious transaction alerts.   
 
 ## Project Structure
 
