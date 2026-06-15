@@ -34,7 +34,7 @@ Stores account details and balances.
 
 ### Transactions
 
-Stores all money transfer records.
+Stores all money transfer records.          
 
 ### Fraud Alerts
 
