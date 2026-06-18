@@ -1,7 +1,7 @@
 
 # FinTech Fraud Detection & Transaction Ledger     
 
-## Project Overview   
+## Project Overview            
 
 This project is a simple FinTech application built using **Python** and **MySQL**. It allows users to manage customers, create accounts, perform money transfers, maintain a transaction ledger, and detect potentially fraudulent transactions based on predefined rules.                                        
 
